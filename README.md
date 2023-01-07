@@ -1,30 +1,23 @@
-# Point of Sale for an Art Gallery
+# Point of Sale for Art Gallery
 
-Este proyecto consiste en el desarrollo de un sistema de punto de venta para una Galería de Arte. Con la finalidad de tener un mejor control de las operaciones que se realizan en el negocio.
+#### Main System Entities
 
-#### Objetivo del sistema
-> El sistema debe de tener la capacidad de gestionar los principales los elementos necesarios para concretar las ventas de las obras para muchos artistas.
+> - Clients
+> - Artists
+> - Work
+> - Sales
 
-#### Entidades del sistema
+#### Stack Tech
 
-> - Clientes
-> - Artistas
-> - Obras
-> - Comisiones por Vendedor
-> - Exposiciones por parte del negocio
-> - Ventas
-
-#### Tecnologías utilizadas
-
-> - Netbeans como IDE
+> - Netbeans
 > - Java
 > - PostgreSQL
 > - JasperReports
 
-## Base de Datos
+## Database
 ![Alt text](./Screenshots/db.png?raw=true)
 
-## Screenshots del sistema 
+## System
 ![Alt text](./Screenshots/main.png?raw=true)
 
 ![Alt text](./Screenshots/crud-arts.png?raw=true)
